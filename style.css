@@ -1,9 +1,14 @@
 body{
     background-color: azure;
+    display: flex;
+    margin: 20px;
 }
-.javascript{
+.javascript, .css{
     border: 1px solid black;
-}
-.css{
+  margin: 20px;
+  background-color:rgba( rgb(80, 80, 219),)
+  color white;
+  padding: 10px;
+  border-radius: 10px;
 
 }
