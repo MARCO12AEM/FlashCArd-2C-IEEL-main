@@ -5,10 +5,9 @@ body{
 }
 .javascript, .css{
     border: 1px solid black;
-  margin: 20px;
-  background-color:rgba( rgb(80, 80, 219),)
-  color white;
-  padding: 10px;
-  border-radius: 10px;
-
+    margin: 20px;
+    background-color: rgba(38, 38, 140, 0.885);
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
 }
